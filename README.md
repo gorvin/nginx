@@ -1,5 +1,8 @@
 # Dockerized Nginx
 
+![Docker Automated build](https://img.shields.io/docker/automated/igorvin/nginx-test.svg?style=plastic)
+[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=gorvin&repository=nginx)](https://hub.docker.com/r/igorvin/nginx-test/builds/)
+
 # Supported Tags And Respective Dockerfiles
 
 | Nginx Version     | Tag          | Dockerfile |
